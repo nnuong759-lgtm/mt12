@@ -24,7 +24,7 @@ body {
   width: 100%;
   min-height: 100vh;
   /* [VỊ TRÍ 1] Thay link ảnh nền background lớn ở đây */
-  background-image: url("/img/full.jpg");
+  background-image: url("./img/full.jpg");
   background-size: cover;
   background-position: center;
 }
